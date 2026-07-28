@@ -4,8 +4,6 @@
 
 [![Company Website](https://img.shields.io/badge/Company-tradingrw.com-651FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tradingrw.com/)
 [![Flagship Terminal](https://img.shields.io/badge/Terminal-stratai.live-00E5FF?style=for-the-badge&logo=appveyor&logoColor=black)](https://stratai.live)
-[![Engine](https://img.shields.io/badge/Engine-Tauri%20%7C%20Rust%20%7C%20QuestDB-FF6D00?style=for-the-badge&logo=rust&logoColor=white)](https://stratai.live)
-[![Vault](https://img.shields.io/badge/Security-Zero--Custody%20Vault-76FF03?style=for-the-badge&logo=1password&logoColor=black)](https://stratai.live)
 
 [![X (Twitter)](https://img.shields.io/badge/𝕏_Twitter-@thestratai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thestratai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@thestratai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/thestratai)
